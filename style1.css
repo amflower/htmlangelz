@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+       
+       
+}
+.sign-up-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0,3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+
+}
+.form .signup-form h1{
+    color: #1BDA6C;
+    margin-bottom: 30px;
+}
+.input-box{
+    border-radius: 20px;
+    padding: 6px;
+    margin: 6px 0;
+    width: 80%;
+    border: 1px solid #999;
+    outline: none;
+}
+button{
+    color: #fff;
+    width: 80%;
+    padding: 6px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 6px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+.form .signup-btn{
+    background-color: #1c8;
+
+}
+.Facebook-btn{
+   background-color: #1c8;
+
+}
+a{
+    text-decoration: none;
+}
+hr{
+    margin-top: 20px;
+    width: 80%;
+}
+.or{
+    background: #fff;
+    width: 30%;
+    margin: -19px auto 10px;
+
+     
+} 
+.signup-form{
+    display: none;
+}
