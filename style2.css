@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding:0px;  
+    box-sizing:border-box; 
+    }
+    .navbar{
+        height: 50px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        min-height: 8vh;
+        background-color: #5d4954;
+        font-family: 'Poppins', sans-serif;
+
+    }
+    .nav-item{
+        color: rgb(226, 226, 226);
+        text-decoration: none;
+        letter-spacing: 1px;
+        font-weight: bold;
+        font-size: 14px;
+    }
